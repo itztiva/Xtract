@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Xtract"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Xtract" Height="450" Width="800" Background="#FF1A1A1A" >
     <Grid>
 
     </Grid>
